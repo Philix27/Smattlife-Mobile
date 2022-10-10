@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43890422419",
+    "project_id": "smattlife-d9a1f",
+    "storage_bucket": "smattlife-d9a1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43890422419:android:97665c8676f209c6ee1366",
+        "android_client_info": {
+          "package_name": "com.philix.smattlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43890422419-0agkv12nqobsbl6ip4h9256vt5v66c1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.philix.smattlife",
+            "certificate_hash": "934ce4b3d285dfff69cb49fcd78f6d1bc5e71840"
+          }
+        },
+        {
+          "client_id": "43890422419-a5033v7i8o2dahat13beuv814kk3vgfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1TjyjLs_FkjsNfSS31BAHcl4kH2YAz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43890422419-a5033v7i8o2dahat13beuv814kk3vgfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
